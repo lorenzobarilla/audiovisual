@@ -1,0 +1,21 @@
+body {
+  overflow-y: hidden; /* Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+.infos {
+  color: white;
+  user-select: none;
+}
+
+.sliders {
+
+}
+
+.invisible {
+  display: none;
+}
+
+.live {
+  cursor: none;
+}
